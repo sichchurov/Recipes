@@ -74,5 +74,4 @@ public class RecipeController {
             throw new ResponseStatusException(HttpStatus.NOT_FOUND);
         }
     }
-
 }
